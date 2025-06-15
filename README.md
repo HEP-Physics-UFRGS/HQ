@@ -31,6 +31,10 @@ Each project will be maintained in a **dedicated repository** to prevent merge c
 
 Each folder serves a specific role in maintaining a clean and consistent project organization. Contributions should follow this structure whenever possible.
 
+You can create this structure quickly by running the following command in your terminal:
+
+mkdir -p data scripts results papers && touch README.md LICENSE .gitignore
+
 ---
 
 ## 📬 Contact
