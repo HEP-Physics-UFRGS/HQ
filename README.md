@@ -16,11 +16,17 @@ Each project will be maintained in a **dedicated repository** to prevent merge c
 ## 📁 Recommended Repository Structure
 
 ├── data/ # Raw and processed data
+
 ├── scripts/ # Reusable scripts
+
 ├── results/ # Outputs, plots, and analysis results
+
 ├── papers/ # Reports, drafts, and paper submissions
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
 
 Each folder serves a specific role in maintaining a clean and consistent project organization. Contributions should follow this structure whenever possible.
