@@ -9,7 +9,9 @@ This GitHub organization aims to centralize and organize all materials related t
 - References and supporting materials  
 - Processed and raw results
 
-Each project will be maintained in a **dedicated repository** to prevent merge conflicts and ensure clean collaboration among team members.
+Each project will be maintained in a **dedicated repository** to prevent merge conflicts and ensure clean collaboration among team members.  
+Materials that are common to all projects may be placed in this repository.
+
 
 ---
 
